@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<VTKFile byte_order="LittleEndian" type="UnstructuredGrid" version="0.1">
+<UnstructuredGrid>
+<Piece NumberOfCells="0" NumberOfPoints="5">
+<Points>
+<DataArray NumberOfComponents="3" format="ascii" type="Float32">0 0 0 42.90774736852218 1.4 2 82.294393532112096 1.5999999999999999 2 29.858263255908657 5.6035599500349118 2 80.830747394062314 4.464865750557732 2 </DataArray>
+</Points>
+<Cells>
+<DataArray Name="connectivity" format="ascii" type="Int32">0</DataArray>
+<DataArray Name="offsets" format="ascii" type="Int32">0</DataArray>
+<DataArray Name="types" format="ascii" type="UInt8">1</DataArray>
+</Cells>
+<PointData>
+<DataArray Name="Points" NumberOfComponents="3" format="ascii" type="Float32">0 0 0 42.90774736852218 1.4 2 82.294393532112096 1.5999999999999999 2 29.858263255908657 5.6035599500349118 2 80.830747394062314 4.464865750557732 2 </DataArray>
+<DataArray Name="forces" NumberOfComponents="3" format="ascii" type="Float32">0 0 0 0.0023263071662757606 -0.00068080330940717903 0.0 0.033278444008908767 -0.0024981028415587084 0.0 -0.019064515819879769 0.0070847628291151859 0.0 -0.0012438054860813698 0.0024981028415587084 0.0 </DataArray>
+<DataArray Name="radii" format="ascii" type="Float32">0 1.4 1.5999999999999999 1.2 1.5999999999999999 </DataArray>
+</PointData>
+<CellData/>
+</Piece>
+</UnstructuredGrid>
+</VTKFile>
